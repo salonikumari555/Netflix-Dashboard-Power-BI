@@ -43,7 +43,7 @@ The objective of this project is to perform data analysis on Netflix's content l
 
 ## 🚀 Live Demo
 
-https://6a43eecb96b12c7cf404a1e4--netflikdashboardprojectdmv.netlify.app/
+LIVE PROJECT URL :https://6a43eecb96b12c7cf404a1e4--netflikdashboardprojectdmv.netlify.app/
 ## 📚 Learning Outcomes
 
 * Data Cleaning and Transformation
